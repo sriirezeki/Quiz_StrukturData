@@ -85,4 +85,4 @@ Display hash table beserta status tiap slot
 
 Muat 15 data pengujian
 
-✨ LINK YT :
+✨ LINK YT : https://youtu.be/D4Z2dVjAGiI?si=RU8KZrZX7rG7mgZo
